@@ -1,2 +1,5 @@
 
 .idea/workspace.xml
+
+# Never commit Firebase Admin SDK service-account credentials.
+*-firebase-adminsdk-*.json
